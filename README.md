@@ -1,2 +1,2 @@
 # Team_Randomizer
-Program randomizing teams in a game
+Program for randomizing teams in a game
