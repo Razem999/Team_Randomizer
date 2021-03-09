@@ -13,7 +13,9 @@ With the players added, the user can now click on the 'Randomize' button, which 
 Once the 'Randomize' button is clicked, the players will be split and displayed in a text area below team 1 and 2. 
 
 *Work in Progress* The 'Remove Player' button will remove players from the player list to balance teams and remove players who are not interested.
+
 *Work in Progress* The 'Clear All' button removes all players from the player list to start anew.
+
 *Work in Progress* With the remaining two tabs, one will be used to randomize maps and options relating to maps in the game. While the other tab will used to randomize weapons in the game for the player to use
 
 Produced by: Razem Shahin
